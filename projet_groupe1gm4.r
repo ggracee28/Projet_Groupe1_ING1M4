@@ -446,5 +446,5 @@ fviz_contrib(res.afc,choice="row",axes=2)
 fviz_contrib(res.afc,choice="col",axes=2)
 
 
-#####Les modalités proches sont associées
+#####Les modalités proches sont associéess
 
